@@ -1,75 +1,121 @@
-<<<<<<< HEAD
-# 349Project2
-349 Portfolio Project
-=======
-# Getting Started with Create React App
+# Adam Louie's Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
 
-## Available Scripts
+Welcome to my personal portfolio! This project showcases my skills, projects, and contact information in an interactive and visually appealing manner. It is built using React.js, with smooth navigation and a responsive design.
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+-   [Introduction](#introduction)
+-   [Setup and Installation](#setup-and-installation)
+-   [Usage](#usage)
+-   [Features](#features)
+-   [Project Structure](#project-structure)
+-   [Contributing](#contributing)
+-   [License](#license)
+-   [Contact](#contact)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Setup and Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Requirements
 
-### `npm test`
+-   Node.js
+-   npm (Node Package Manager)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Installation Steps
 
-### `npm run build`
+1. Clone the repository from GitHub:
+    ```sh
+    git clone https://github.com/adumlouie/349Project2
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd 349Project2
+    ```
+3. Install the required dependencies:
+    ```sh
+    npm install
+    ```
+4. Start the development server:
+    ```sh
+    npm start
+    ```
+5. Open your browser and go to `http://localhost:3000` to view the portfolio.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Usage
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+-   Navigate through different sections of the portfolio using the navbar.
+-   View the **About Me** section to learn more about my background.
+-   Explore the **Projects** section to see the projects I've worked on, with links to their GitHub repositories.
+-   Use the **Contact** section to send me a message.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Features
 
-### `npm run eject`
+-   **Introduction Section**: A brief introduction about myself.
+-   **Skills and Expertise**: A showcase of my skills and technologies I work with.
+-   **Projects**: Detailed descriptions of my projects with links to their GitHub repositories.
+-   **Contact Information**: A form to get in touch with me via email.
+-   **Interactive Design Elements**: Smooth scrolling and responsive design for an optimal user experience.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Project Structure
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Adam Louie's Portfolio
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Introduction
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Welcome to my personal portfolio! This project showcases my skills, projects, and contact information in an interactive and visually appealing manner. It is built using React.js, with smooth navigation and a responsive design.
 
-## Learn More
+## Table of Contents
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+-   [Introduction](#introduction)
+-   [Setup and Installation](#setup-and-installation)
+-   [Usage](#usage)
+-   [Features](#features)
+-   [Project Structure](#project-structure)
+-   [Contributing](#contributing)
+-   [License](#license)
+-   [Contact](#contact)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Setup and Installation
 
-### Code Splitting
+### Requirements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+-   Node.js
+-   npm (Node Package Manager)
 
-### Analyzing the Bundle Size
+### Installation Steps
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1. Clone the repository from GitHub:
+    ```sh
+    git clone https://github.com/adumlouie/349Project2
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd 349Project2
+    ```
+3. Install the required dependencies:
+    ```sh
+    npm install
+    ```
+4. Start the development server:
+    ```sh
+    npm start
+    ```
+5. Open your browser and go to `http://localhost:3000` to view the portfolio.
 
-### Making a Progressive Web App
+## Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+-   Navigate through different sections of the portfolio using the navbar.
+-   View the **About Me** section to learn more about my background.
+-   Explore the **Projects** section to see the projects I've worked on, with links to their GitHub repositories.
+-   Use the **Contact** section to send me a message.
 
-### Advanced Configuration
+## Features
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+-   **Introduction Section**: A brief introduction about myself.
+-   **Skills and Expertise**: A showcase of my skills and technologies I work with.
+-   **Projects**: Detailed descriptions of my projects with links to their GitHub repositories.
+-   **Contact Information**: A form to get in touch with me via email.
+-   **Interactive Design Elements**: Smooth scrolling and responsive design for an optimal user experience.
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 8dd4227 (Initialize project using Create React App)
+## Project Structure
