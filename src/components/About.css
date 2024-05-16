@@ -1,0 +1,68 @@
+.about {
+    padding: 40px 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.about h4 {
+  font-weight:800;
+  font-size: 24px;
+  color: #9D5C63;
+}
+  
+.about h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.imageContainer {
+  margin-bottom: 20px;
+}
+
+.imageContainer img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.textContainer {
+  max-width: 600px;
+  text-align: left;
+}
+
+.textContainer p {
+  font-size: 1.1em;
+  line-height: 1.6;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.about icons {
+  display: flex;
+  color: #555;
+  gap: 15px;
+}
+
+.about a {
+  font-weight: 500;
+  text-decoration: none;
+  color: #555;
+  transition: color 0.3s;
+}
+
+.about a:hover {
+  color: #9D5C63;
+}
+
+.connect {
+  color: #9D5C63;
+}
